@@ -1,0 +1,17 @@
+<--- Small Button, White --->
+<a href="#" class="btn btn-block btn-sm btn-default"><span class="glyphicon glyphicon-info-sign"></span> Information</a>
+
+<--- Small Button, Primary --->
+<a href="#" class="btn btn-block btn-sm btn-primary"><span class="glyphicon glyphicon-info-sign"></span> Information</a>
+
+<--- Small Button, Info --->
+<a href="#" class="btn btn-block btn-sm btn-info"><span class="glyphicon glyphicon-info-sign"></span> Information</a>
+
+<--- Small Button, Success --->
+<a href="#" class="btn btn-block btn-sm btn-success"><span class="glyphicon glyphicon-info-sign"></span> Information</a>
+
+<--- Small Button, Warning --->
+<a href="#" class="btn btn-block btn-sm btn-warning"><span class="glyphicon glyphicon-info-sign"></span> Information</a>
+
+<--- Small Button, Danger ---> 
+<a href="#" class="btn btn-block btn-sm btn-danger"><span class="glyphicon glyphicon-info-sign"></span> Information</a>
